@@ -1,0 +1,6 @@
+{
+  "name": "Pé da Serra Espetaria — Cardápio Digital",
+  "description": "Cardápio digital completo da Pé da Serra Espetaria com petiscos, espetos na brasa e bebidas geladas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
